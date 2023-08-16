@@ -1,4 +1,4 @@
-# Python Script That Make ASCII-ART
+# Make ASCII-ART With Python
 
 <br/>
 <p align="center">
